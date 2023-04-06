@@ -11,6 +11,7 @@ def get_hex():
 def update_color_label():
     # Update color of window
     color_value = get_hex()
+    color_label.config(text=color_value)
     root.configure(background=color_value)
     root.after(100, update_color_label)
 
