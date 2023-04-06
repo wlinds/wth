@@ -1,2 +1,2 @@
 # wth
-What the hex? Color inspector.
+What the hex?! Color inspector.
